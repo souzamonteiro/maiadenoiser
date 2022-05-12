@@ -1,2 +1,2 @@
-# maiadenoiser
-MaiaScript audio de-noise engine
+# MaiaDenoiser
+MaiaScript audio de-noise engine.
